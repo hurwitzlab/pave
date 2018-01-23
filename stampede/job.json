@@ -1,0 +1,10 @@
+{
+  "name": "json",
+  "appId": "iMicrobe-Mash-0.0.1",
+  "archive": true,
+  "inputs": {
+    "QUERY_DIR": "data/pov/fasta"
+  },
+  "parameter": {
+  }
+}
